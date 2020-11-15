@@ -1,0 +1,14 @@
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
