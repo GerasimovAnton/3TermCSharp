@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
 using System.Security.Cryptography;
-using System.Security.Cryptography.X509Certificates;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace WindowsService1
 {
@@ -67,7 +62,6 @@ namespace WindowsService1
                 {
                     using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Read))
                     {
-
                         csDecrypt.Write(cipherText, 0, cipherText.Length);
                         csDecrypt.FlushFinalBlock();
 

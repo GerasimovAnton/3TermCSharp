@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WindowsService1
 {
-    class ArchiverOptions : Options
+    public class ArchiverOptions : Options
     {
         public CompressionLevel compressionLevel { get; set; } = CompressionLevel.Optimal;
     }

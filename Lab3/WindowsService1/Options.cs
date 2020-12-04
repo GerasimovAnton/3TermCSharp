@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsService1
 {
-    class Options
+    public class Options
     {
     }
 }

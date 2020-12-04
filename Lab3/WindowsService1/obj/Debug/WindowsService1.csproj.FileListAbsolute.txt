@@ -30,3 +30,4 @@ C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Deb
 C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.ValueTuple.xml
 C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache

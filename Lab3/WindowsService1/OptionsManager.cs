@@ -1,63 +1,87 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Serialization;
 using System.Text.Json;
-using System.Text.Json.Serialization;
 
 namespace WindowsService1
 {
     class OptionsManager
     {
-        public enum OptionsSource
-        {
-            NONE,
-            XML,
-            JSON
-        }
-
-        public OptionsSource optionsSource { get; private set; } = OptionsSource.NONE;
+        private EtlOptions loadedOptions;
 
         public OptionsManager(string path)
         {
+            /*
+            loadedOptions.archiverOptions = new ArchiverOptions();
+            loadedOptions.loggerOptions = new LoggerOptions() { LogPath = "C:\\Users\\Anton\\Desktop\\TargetDirectory\\Log.txt" };
+            loadedOptions.TargetDirectory = "C:\\Users\\Anton\\Desktop\\TargetDirectory";
+            loadedOptions.trackerOptions = new TrackerOptions() { Path = "C:\\Users\\Anton\\Desktop\\SourceDirectory" };
 
+            WriteXML($"{path}\\config.xml");
+            WriteJSON($"{path}\\appsettings.json").GetAwaiter().GetResult();
+            */
 
-            JSONSerialize().GetAwaiter().GetResult();
-        }
-
-
-        private void ParseJSON()
-        {
-            
-        }
-
-        private void ParseXML()
-        {
-            
-        }
-
-        private async Task JSONSerialize()
-        {
-            using (FileStream fs = new FileStream("user.json", FileMode.OpenOrCreate))
+            if (File.Exists($"{path}\\config.xml")) LoadXML($"{path}\\config.xml");
+            else if (File.Exists($"{path}\\appsettings.json")) LoadJSON($"{path}\\appsettings.json").GetAwaiter().GetResult();
+            else
             {
+                loadedOptions = new EtlOptions();
 
-                List<Options> options = new List<Options>();
+                Directory.CreateDirectory($"{AppDomain.CurrentDomain.BaseDirectory}\\TargetDir");
+                Directory.CreateDirectory($"{AppDomain.CurrentDomain.BaseDirectory}\\SourceDir");
 
-           
-            
-                await JsonSerializer.SerializeAsync<List<Options>>(fs, options);
-          
+                loadedOptions.archiverOptions = new ArchiverOptions();
+                loadedOptions.loggerOptions = new LoggerOptions() { LogPath = $"{AppDomain.CurrentDomain.BaseDirectory}\\Log.txt" };
+                loadedOptions.TargetDirectory = $"{AppDomain.CurrentDomain.BaseDirectory}\\TargetDir";
+                loadedOptions.trackerOptions = new TrackerOptions() { Path = $"{AppDomain.CurrentDomain.BaseDirectory}\\SourceDir" };
+                loadedOptions.encryptorOptions = new EncryptorOptions();
+
+                WriteXML($"{AppDomain.CurrentDomain.BaseDirectory}\\config.xml");
             }
 
         }
 
+        private async Task LoadJSON(string path)
+        {
+            using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate))
+            {
+                loadedOptions = await JsonSerializer.DeserializeAsync<EtlOptions>(fs);
+            }
+        }
+
+        private void LoadXML(string path)
+        {
+            XmlSerializer formatter = new XmlSerializer(typeof(EtlOptions));
+
+            using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate))
+            {
+                loadedOptions = (EtlOptions)formatter.Deserialize(fs);
+            }
+        }
+
+        private async Task WriteJSON(string path)
+        {   
+            using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate))
+            {
+                await JsonSerializer.SerializeAsync(fs, loadedOptions);
+            }
+        }
+
+        private void WriteXML(string path)
+        {
+            XmlSerializer formatter = new XmlSerializer(typeof(EtlOptions));
+
+            using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate))
+            {
+                formatter.Serialize(fs, loadedOptions);
+            }
+        }
 
         public Options GetOptions<T>()
         {
-            throw new NotImplementedException();
+            if (typeof(T).Name.Equals(typeof(EtlOptions).Name)) return loadedOptions;
+            return loadedOptions.GetType().GetProperty(typeof(T).Name).GetValue(loadedOptions) as Options;
         }
 
     }

@@ -1,12 +1,7 @@
 ﻿using System;
 using System.IO;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Security.Permissions;
 using System.Threading;
-using System.Reflection;
 using System.Globalization;
 using System.Security.Cryptography;
 
@@ -46,7 +41,19 @@ namespace WindowsService1
         {
             Logger backupLogger = new Logger();
 
-            optionsManager = new OptionsManager(AppDomain.CurrentDomain.BaseDirectory);
+            try
+            {
+                optionsManager = new OptionsManager(AppDomain.CurrentDomain.BaseDirectory);
+                etlOptions = optionsManager.GetOptions<EtlOptions>() as EtlOptions;
+
+                SourceDirectory = etlOptions.trackerOptions.Path;
+                TargetDirectory = etlOptions.TargetDirectory;
+            }
+            catch (Exception e)
+            {
+                backupLogger.Log($"Error: {e.Message} Application stopped...");
+                Stop();
+            }
 
 
             if (TargetDirectory.CompareTo(SourceDirectory) == 0)
@@ -69,8 +76,10 @@ namespace WindowsService1
 
             try
             {
-                logger = new Logger(Path.Combine(TargetDirectory, "Log.txt"));
-                tracker = new Tracker(SourceDirectory);
+                logger = new Logger(etlOptions.loggerOptions.LogPath);
+                logger.Enabled = etlOptions.loggerOptions.EnableLogging;
+
+                tracker = new Tracker(etlOptions.trackerOptions.Path);
 
                 tracker.Created += OnDirectoryCreate;
             }
@@ -98,15 +107,20 @@ namespace WindowsService1
 
                 using (Aes aes = Aes.Create())
                 {
-                    byte[] encrypt = Encryptor.Encrypt(File.ReadAllBytes(filePath), aes.Key, aes.IV);
-                    File.WriteAllBytes(filePath, encrypt);
+                    if (etlOptions.encryptorOptions.EnableEncryption)
+                    {
+                        byte[] encrypt = Encryptor.Encrypt(File.ReadAllBytes(filePath), aes.Key, aes.IV);
+                        File.WriteAllBytes(filePath, encrypt);
+                    }
 
-                    Archiver.Compress(filePath, compressPath);
+                    Archiver.Compress(filePath, compressPath, etlOptions.archiverOptions.compressionLevel);
                     Archiver.Decompress(compressPath, decompressPath);
 
-                    byte[] decrypt = Encryptor.Decrypt(File.ReadAllBytes(decompressPath), aes.Key, aes.IV);
-                    File.WriteAllBytes(decompressPath, decrypt.ToArray());
-
+                    if (etlOptions.encryptorOptions.EnableEncryption)
+                    {
+                        byte[] decrypt = Encryptor.Decrypt(File.ReadAllBytes(decompressPath), aes.Key, aes.IV);
+                        File.WriteAllBytes(decompressPath, decrypt.ToArray());
+                    }
                 }
 
 

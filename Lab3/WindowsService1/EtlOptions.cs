@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace WindowsService1
+﻿namespace WindowsService1
 {
-    class EtlOptions : Options
+    public class EtlOptions : Options
     {
         public TrackerOptions trackerOptions { get; set; }
         public ArchiverOptions archiverOptions { get; set; }

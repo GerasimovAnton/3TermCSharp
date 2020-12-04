@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace WindowsService1
 {
-    class TrackerOptions : Options
+    public class TrackerOptions : Options
     {
         public string Filter { get; set; } = "*.txt";
         public string Path { get; set; } = AppDomain.CurrentDomain.BaseDirectory;
