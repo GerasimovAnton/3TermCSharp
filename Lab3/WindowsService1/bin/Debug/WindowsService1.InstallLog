@@ -1,0 +1,1910 @@
+﻿Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Попытка останова службы ETL_SERVICE.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Попытка останова службы ETL_SERVICE.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Попытка останова службы ETL_SERVICE.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Предупреждение. Источник ETL_SERVICE не зарегистрирован на локальном компьютере.
+Выполняется удаление службы ETL_SERVICE из системы...
+При выполнении программы установки System.ServiceProcess.ServiceInstaller во время установки возникло исключение.
+System.ComponentModel.Win32Exception: Указанная служба не установлена
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Попытка останова службы ETL_SERVICE.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+Выполняется удаление службы ETL_SERVICE из системы...
+Служба ETL_SERVICE успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Служба ETL_SERVICE успешно установлена.
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется откат для сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ETL_SERVICE.
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется откат для сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ETL_SERVICE.
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется откат для сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ETL_SERVICE.
+Выполняется удаление сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Выполняется удаление источника EventLog ETL_SERVICE.
+При выполнении программы установки System.Diagnostics.EventLogInstaller во время установки возникло исключение.
+System.Security.SecurityException: Запрошенный доступ к реестру запрещен.
+При удалении из системы возникло исключение. Это исключение будет проигнорировано, и удаление из системы будет продолжено. Однако после завершения удаления данное приложение может оказаться не полностью удаленным.
+Выполняется установка сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Устанавливается служба ETL_SERVICE...
+Создается исходный EventLog ETL_SERVICE в журнале Application...
+Выполняется откат для сборки 'C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   assemblypath = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+   logfile = C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.InstallLog
+Восстанавливается исходное состояние журнала событий для источника ETL_SERVICE.

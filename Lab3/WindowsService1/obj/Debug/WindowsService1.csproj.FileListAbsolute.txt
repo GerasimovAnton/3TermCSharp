@@ -1,0 +1,32 @@
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3 сем лабы\C#\Lab 2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe.config
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.exe
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.pdb
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Buffers.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Memory.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Text.Json.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.ValueTuple.dll
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Buffers.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Memory.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Text.Json.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\bin\Debug\System.ValueTuple.xml
+C:\Users\Anton\Desktop\3TermLabs\C#\Lab2\WindowsService1\WindowsService1\obj\Debug\WindowsService1.csproj.CopyComplete
