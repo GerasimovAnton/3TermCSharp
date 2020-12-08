@@ -11,7 +11,7 @@ namespace WindowsService1
 
         public Logger() 
         {
-            LogPath = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location) + "\\Log.txt";
+            LogPath = AppDomain.CurrentDomain.BaseDirectory + "\\Log.txt";
         }
 
         public Logger(string path)
