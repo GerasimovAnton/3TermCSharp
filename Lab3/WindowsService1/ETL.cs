@@ -9,8 +9,8 @@ namespace WindowsService1
 {
     partial class ETL
     {
-        public string TargetDirectory { get; set; } = "C:\\Users\\Anton\\Desktop\\TargetDirectory";
-        public string SourceDirectory { get; set; } = "C:\\Users\\Anton\\Desktop\\SourceDirectory";
+        public string TargetDirectory { get; set; }
+        public string SourceDirectory { get; set; }
 
         Tracker tracker;
         Logger logger;

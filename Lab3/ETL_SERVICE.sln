@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29911.84
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsService1", "WindowsService1\WindowsService1.csproj", "{C420E9B8-2452-4328-96EA-DFD1B081D33D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETL", "WindowsService1\ETL.csproj", "{C420E9B8-2452-4328-96EA-DFD1B081D33D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

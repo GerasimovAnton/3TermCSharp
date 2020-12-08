@@ -32,7 +32,7 @@ namespace WindowsService1
                 Directory.CreateDirectory($"{AppDomain.CurrentDomain.BaseDirectory}\\SourceDir");
 
                 loadedOptions.archiverOptions = new ArchiverOptions();
-                loadedOptions.loggerOptions = new LoggerOptions() { LogPath = $"{AppDomain.CurrentDomain.BaseDirectory}\\Log.txt" };
+                loadedOptions.loggerOptions = new LoggerOptions() { LogPath = $"{AppDomain.CurrentDomain.BaseDirectory}\\ETL_logs\\Log.txt" };
                 loadedOptions.TargetDirectory = $"{AppDomain.CurrentDomain.BaseDirectory}\\TargetDir";
                 loadedOptions.trackerOptions = new TrackerOptions() { Path = $"{AppDomain.CurrentDomain.BaseDirectory}\\SourceDir" };
                 loadedOptions.encryptorOptions = new EncryptorOptions();
