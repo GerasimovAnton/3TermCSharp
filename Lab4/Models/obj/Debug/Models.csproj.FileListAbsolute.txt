@@ -1,0 +1,6 @@
+C:\Users\Anton\source\repos\ISP_Lab_4\Models\bin\Debug\Models.dll
+C:\Users\Anton\source\repos\ISP_Lab_4\Models\bin\Debug\Models.pdb
+C:\Users\Anton\source\repos\ISP_Lab_4\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\Anton\source\repos\ISP_Lab_4\Models\obj\Debug\Models.dll
+C:\Users\Anton\source\repos\ISP_Lab_4\Models\obj\Debug\Models.pdb
+C:\Users\Anton\source\repos\ISP_Lab_4\Models\obj\Debug\Models.csprojAssemblyReference.cache
