@@ -17,10 +17,10 @@ namespace FileManager
                           | NotifyFilters.FileName
                           | NotifyFilters.DirectoryName;
 
-            Filter = "*.txt";
+            Filter = "*.*";
         }
 
-        public Tracker(TrackerOptions options) : base(options.Path)
+        public Tracker(TrackerOptions options) : base(options.TrackedDirectory)
         {
             /*
             NotifyFilter = NotifyFilters.LastWrite

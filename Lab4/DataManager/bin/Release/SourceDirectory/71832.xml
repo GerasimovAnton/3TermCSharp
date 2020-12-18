@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SalesOrderID>71832</SalesOrderID>
+  <product>
+    <ProductID>920</ProductID>
+    <ProductModelID>8</ProductModelID>
+    <Name>LL Mountain Frame - Silver, 52</Name>
+    <ProductNumber>FR-M21S-52</ProductNumber>
+    <Color>Silver</Color>
+    <Size>52</Size>
+    <ThumbnailPhotoFileName>no_image_available_small.gif</ThumbnailPhotoFileName>
+    <Weight>1378.91</Weight>
+    <StandardCost>144.5938</StandardCost>
+    <ListPrice>264.0500</ListPrice>
+    <rowguid>f230baac-5951-4eb1-b1e8-94c2ca2b37fa</rowguid>
+    <SellStartDate>2007-07-01T00:00:00.000</SellStartDate>
+    <SellEndDate xsi:nil="true" />
+    <DiscontinuedDate xsi:nil="true" />
+    <ModifiedDate>2008-03-11T10:01:36.827</ModifiedDate>
+  </product>
+  <customer>
+    <CustomerID>29922</CustomerID>
+    <NameStyle>false</NameStyle>
+    <Title>Ms.</Title>
+    <FirstName>Pamala</FirstName>
+    <MiddleName>M.</MiddleName>
+    <LastName>Kotc</LastName>
+    <CompanyName>Closest Bicycle Store</CompanyName>
+    <SalesPerson>adventure-works\jae0</SalesPerson>
+    <EmailAddress>pamala0@adventure-works.com</EmailAddress>
+    <Phone>1 (11) 500 555-0173</Phone>
+    <PasswordHash>3nXek8BFNaBhIi8CwSzQOVdo1ZthphI3kGbZTrt6jNM=</PasswordHash>
+    <PasswordSalt>/rh9tFs=</PasswordSalt>
+    <rowguid>d532c98a-db1a-46d5-8f34-a2e2d63df722</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00.000</ModifiedDate>
+  </customer>
+  <ShipToAddress>
+    <AddressID>639</AddressID>
+    <AddressLine1>Garamonde Drive, Wymbush</AddressLine1>
+    <AddressLine2>PO Box 4023</AddressLine2>
+    <City>Milton Keynes</City>
+    <StateProvince>England</StateProvince>
+    <CountryRegion>United Kingdom</CountryRegion>
+    <PostalCode>MK8 8ZD</PostalCode>
+    <rowguid>8f34cedd-fb6e-4814-b509-9965a31bc2e5</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00.000</ModifiedDate>
+  </ShipToAddress>
+  <PurchaseOrderNumber>PO10353140756</PurchaseOrderNumber>
+  <SalesOrderNumber>SO71832</SalesOrderNumber>
+  <SubTotal>35775.2113</SubTotal>
+</Order>

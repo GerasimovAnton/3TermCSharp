@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SalesOrderID>71816</SalesOrderID>
+  <product>
+    <ProductID>948</ProductID>
+    <ProductModelID>102</ProductModelID>
+    <Name>Front Brakes</Name>
+    <ProductNumber>FB-9873</ProductNumber>
+    <Color>Silver</Color>
+    <ThumbnailPhotoFileName>no_image_available_small.gif</ThumbnailPhotoFileName>
+    <Weight>317.00</Weight>
+    <StandardCost>47.2860</StandardCost>
+    <ListPrice>106.5000</ListPrice>
+    <rowguid>c1813164-1b4b-42d1-9007-4e5f9aee0e19</rowguid>
+    <SellStartDate>2007-07-01T00:00:00.000</SellStartDate>
+    <SellEndDate xsi:nil="true" />
+    <DiscontinuedDate xsi:nil="true" />
+    <ModifiedDate>2008-03-11T10:01:36.827</ModifiedDate>
+  </product>
+  <customer>
+    <CustomerID>30027</CustomerID>
+    <NameStyle>false</NameStyle>
+    <Title>Mr.</Title>
+    <FirstName>Joseph</FirstName>
+    <MiddleName>P.</MiddleName>
+    <LastName>Mitzner</LastName>
+    <Suffix>Jr.</Suffix>
+    <CompanyName>Engineered Bike Systems</CompanyName>
+    <SalesPerson>adventure-works\shu0</SalesPerson>
+    <EmailAddress>joseph4@adventure-works.com</EmailAddress>
+    <Phone>129-555-0164</Phone>
+    <PasswordHash>7obarvC3BHLIE/oFo0n+bkB/EZ03Zc8Vu+F2jpK/CNM=</PasswordHash>
+    <PasswordSalt>k6zgROU=</PasswordSalt>
+    <rowguid>029c27b5-72e5-4024-a5fa-53bdb42b98bc</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00.000</ModifiedDate>
+  </customer>
+  <ShipToAddress>
+    <AddressID>1038</AddressID>
+    <AddressLine1>123 Camelia Avenue</AddressLine1>
+    <City>Oxnard</City>
+    <StateProvince>California</StateProvince>
+    <CountryRegion>United States</CountryRegion>
+    <PostalCode>93030</PostalCode>
+    <rowguid>a86c8140-ad7d-4caa-9b40-4006bd9998e2</rowguid>
+    <ModifiedDate>2007-09-01T00:00:00.000</ModifiedDate>
+  </ShipToAddress>
+  <PurchaseOrderNumber>PO12992180445</PurchaseOrderNumber>
+  <SalesOrderNumber>SO71816</SalesOrderNumber>
+  <SubTotal>3398.1659</SubTotal>
+</Order>

@@ -34,7 +34,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.ServiceProcess" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -46,6 +49,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FileTransferInstaller.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FileTransferInstaller.Designer.cs">
+      <DependentUpon>FileTransferInstaller.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -87,6 +96,10 @@
     <ProjectReference Include="..\DAL\DAL.csproj">
       <Project>{f820d594-2a98-4270-ac73-efa1b0777cd4}</Project>
       <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FileManager\FileManager.csproj">
+      <Project>{5dff7948-83c4-41d0-bf22-e82780133e7c}</Project>
+      <Name>FileManager</Name>
     </ProjectReference>
     <ProjectReference Include="..\Models\Models.csproj">
       <Project>{6e805a8a-fbfa-4432-87c8-4d54ab9d8b9f}</Project>

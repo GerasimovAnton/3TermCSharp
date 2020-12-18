@@ -21,11 +21,11 @@ namespace ConfigurationManager
             
         }
 
-        public void LoadOptions<T>(string OptionsDirectory) where T : Options
+        public void LoadOptions<T>(string OptionsDirectory) where T : Options, new()
         {
             if (File.Exists($"{OptionsDirectory}\\config.xml")) LoadXML<T>($"{OptionsDirectory}\\config.xml");
             else if (File.Exists($"{OptionsDirectory}\\appsettings.json")) LoadJSON<T>($"{OptionsDirectory}\\appsettings.json").GetAwaiter().GetResult();
-            else LoadedOptionsSection = (T)Activator.CreateInstance(typeof(T)); // а это вообще безопасно?
+            else LoadedOptionsSection = new T();
         }
 
         public void SaveOptions<T>(T options,string path,ConfigType configType = ConfigType.XML) where T: Options

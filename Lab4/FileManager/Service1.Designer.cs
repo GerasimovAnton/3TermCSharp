@@ -1,6 +1,6 @@
 ﻿namespace FileManager
 {
-    partial class ETL
+    partial class IFileTransferService
     {
         /// <summary> 
         /// Обязательная переменная конструктора.
@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             components = new System.ComponentModel.Container();
-            this.ServiceName = "ETL_SERVICE";
+            this.ServiceName = "FILE_TRANSFER_SERVICE";
         }
 
         #endregion

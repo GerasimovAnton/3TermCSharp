@@ -13,6 +13,5 @@ namespace DAL
         public string User { get; set; } = "Anton";
         public string Password { get; set; } = "12";
         public bool IntegratedSecurity { get; set; } = true;
-
     }
 }

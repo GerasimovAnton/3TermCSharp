@@ -14,29 +14,80 @@ namespace ServiceLayer
     public class ServiceLayer
     {
         DataAccessLayer DAL;
+        DataAccessLayer Log;
+        DataOptions dataOptions;
 
-        public ServiceLayer(ConnectionOptions options)
+        public ServiceLayer(DataOptions options)
         {
-            DAL = new DataAccessLayer(options);
+            dataOptions = options;
+
+            DAL = new DataAccessLayer(options.DataAccessOptions);
+            Log = new DataAccessLayer(options.LogOptions);
+
+            Log.Log("Service layer successfully created", "Info");
+
+            DAL.GetAllOrderIDs();
+        }
+
+
+        public List<int> GetAllOrders()
+        {
+            List<int> ids = null;
+
+            try
+            {
+                ids = DAL.GetAllOrderIDs();
+            }
+            catch (Exception e)
+            {
+                Log.Log(e.Message, "Error", "GetAllOrders");
+            }
+
+            return ids;
         }
 
         public Order GetOrder(int OrderID)
         {
-            return DAL.GetOrder(OrderID);
+            Order order = null;
+
+            try
+            {
+                order = DAL.GetOrder(OrderID);
+            }
+            catch (Exception e)
+            {
+                Log.Log(e.Message, "Error", "GetOrder");
+            }
+
+            return order;
         }
 
-        public void CreateXMLFile(Order order, string path)
+        public void CreateXMLFile(Order order, string fileName)
         {
-            XMLGenerator generator = new XMLGenerator();
+            try
+            {
+                XMLGenerator generator = new XMLGenerator();
 
-            string x = generator.ToXML(order);
-            using (var streamWriter = new StreamWriter(path)) streamWriter.Write(x);
+                string x = generator.ToXML(order);
+                using (var streamWriter = new StreamWriter(dataOptions.TargetDirectory +"\\"+ fileName)) streamWriter.Write(x);
+            }
+            catch (Exception e)
+            {
+                Log.Log(e.Message, "Error", "CreateXMLFile");
+            }
         }
 
-        public void CreateXSDFile(Order order, string path)
+        public void CreateXSDFile(Order order, string fileName)
         {
-            XMLGenerator generator = new XMLGenerator();
-            using (var streamWriter = new StreamWriter(path)) streamWriter.Write(generator.ToXSD(order));
+            try
+            {
+                XMLGenerator generator = new XMLGenerator();
+                using (var streamWriter = new StreamWriter(dataOptions.TargetDirectory +"\\"+ fileName)) streamWriter.Write(generator.ToXSD(order));
+            }
+            catch (Exception e)
+            {
+                Log.Log(e.Message, "Error", "CreateXSDFile");
+            }
         } 
     }
 }

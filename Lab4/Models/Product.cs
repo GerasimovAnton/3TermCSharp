@@ -20,7 +20,7 @@ namespace Models
         public string ThumbnailPhotoFileName { get; set; }
         public decimal Weight { get; set; }
 
-        public SqlBinary ThumbNailPhoto { get; set; }
+        //public SqlBinary ThumbNailPhoto { get; set; }
 
         public SqlMoney StandardCost { get; set; }
         public SqlMoney ListPrice { get; set; }

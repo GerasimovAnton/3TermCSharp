@@ -13,6 +13,7 @@ namespace Models
         public Customer customer { get; set; }
         public Address ShipToAddress { get; set; }
         public string PurchaseOrderNumber { get; set; }
+        public string SalesOrderNumber { get; set; }
         public decimal SubTotal { get; set; }
     }
 }

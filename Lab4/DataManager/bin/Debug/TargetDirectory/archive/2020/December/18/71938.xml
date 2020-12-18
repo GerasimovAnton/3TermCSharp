@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-16"?>
+<Order xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SalesOrderID>71938</SalesOrderID>
+  <product>
+    <ProductID>800</ProductID>
+    <ProductModelID>29</ProductModelID>
+    <Name>Road-550-W Yellow, 44</Name>
+    <ProductNumber>BK-R64Y-44</ProductNumber>
+    <Color>Yellow</Color>
+    <Size>44</Size>
+    <ThumbnailPhotoFileName>racer02_yellow_f_small.gif</ThumbnailPhotoFileName>
+    <Weight>8355.13</Weight>
+    <StandardCost>713.0798</StandardCost>
+    <ListPrice>1120.4900</ListPrice>
+    <rowguid>0a7028fb-ff06-4d38-aaa1-b64816278165</rowguid>
+    <SellStartDate>2006-07-01T00:00:00.000</SellStartDate>
+    <SellEndDate xsi:nil="true" />
+    <DiscontinuedDate xsi:nil="true" />
+    <ModifiedDate>2008-03-11T10:01:36.827</ModifiedDate>
+  </product>
+  <customer>
+    <CustomerID>29546</CustomerID>
+    <NameStyle>false</NameStyle>
+    <Title>Mr.</Title>
+    <FirstName>Christopher</FirstName>
+    <MiddleName>R.</MiddleName>
+    <LastName>Beck</LastName>
+    <Suffix>Jr.</Suffix>
+    <CompanyName>Bulk Discount Store</CompanyName>
+    <SalesPerson>adventure-works\jae0</SalesPerson>
+    <EmailAddress>christopher1@adventure-works.com</EmailAddress>
+    <Phone>1 (11) 500 555-0132</Phone>
+    <PasswordHash>sKt9daCzEEKWAzivEGPOp8tmaM1R3I+aJfcBjzJRFLo=</PasswordHash>
+    <PasswordSalt>8KfYx/4=</PasswordSalt>
+    <rowguid>228a34a5-66ef-4a18-bef2-be74beb84191</rowguid>
+    <ModifiedDate>2006-09-01T00:00:00.000</ModifiedDate>
+  </customer>
+  <ShipToAddress>
+    <AddressID>635</AddressID>
+    <AddressLine1>93-2501, Blackfriars Road,</AddressLine1>
+    <City>London</City>
+    <StateProvince>England</StateProvince>
+    <CountryRegion>United Kingdom</CountryRegion>
+    <PostalCode>SE1 8HL</PostalCode>
+    <rowguid>00e75f99-488c-462d-a0bc-ac3c08a9db77</rowguid>
+    <ModifiedDate>2006-09-01T00:00:00.000</ModifiedDate>
+  </ShipToAddress>
+  <PurchaseOrderNumber>PO8468183315</PurchaseOrderNumber>
+  <SalesOrderNumber>SO71938</SalesOrderNumber>
+  <SubTotal>88812.8625</SubTotal>
+</Order> n\77þ

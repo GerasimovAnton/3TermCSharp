@@ -60,7 +60,7 @@ namespace FileManager
 
                 using (MemoryStream msDecrypt = new MemoryStream(cipherText))
                 {
-                    using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Read))
+                    using (CryptoStream csDecrypt = new CryptoStream(msDecrypt, decryptor, CryptoStreamMode.Write))
                     {
                         csDecrypt.Write(cipherText, 0, cipherText.Length);
                         csDecrypt.FlushFinalBlock();

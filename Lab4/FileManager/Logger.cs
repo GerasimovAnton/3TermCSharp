@@ -6,12 +6,12 @@ namespace FileManager
 {
     class Logger
     {
-        public bool Enabled { get; set; }
+        public bool Enabled { get; set; } = true;
         public string LogPath { get; set; }
 
         public Logger() 
         {
-            LogPath = AppDomain.CurrentDomain.BaseDirectory + "\\Log.txt";
+            LogPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Log.txt");
         }
 
         public Logger(string path)

@@ -23,6 +23,58 @@ namespace DAL
             }
         }
 
+        public void Log(string message, string type, string method = "")
+        {
+            using (var ts = new TransactionScope())
+            {
+                using (SqlCommand cmd = new SqlCommand("WriteLog", connection))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+
+                    cmd.Parameters.AddWithValue("@Message", message);
+                    cmd.Parameters.AddWithValue("@LogType", type);
+                    cmd.Parameters.AddWithValue("@MethodName", method);
+                    cmd.Parameters.AddWithValue("@Time", DateTime.Now);
+
+                    cmd.ExecuteNonQuery();
+                }
+
+                ts.Complete();
+            }
+        }
+
+        public List<int> GetAllOrderIDs()
+        {
+            List<int> IDs = new List<int>();
+
+            using (var ts = new TransactionScope())
+            {
+                using (SqlCommand cmd = new SqlCommand("GetAllOrders", connection))
+                {
+                    cmd.CommandType = CommandType.StoredProcedure;
+                    var reader = cmd.ExecuteReader();
+
+                   
+                    while (reader.Read())
+                    {
+                        for (int i = 0; i < reader.FieldCount; i++)
+                        {
+                            //IDs.Add((int)reader.GetSqlInt16(i));
+                            int v = GetValue<int>(reader.GetValue(i));
+
+                            if(!IDs.Contains(v)) IDs.Add(v);
+                        }
+                    }
+
+                    reader.Close();
+                }
+
+                ts.Complete();
+            }
+
+            return IDs;
+        }
+
         public Order GetOrder(int ID)
         {
             Order order = new Order();
@@ -56,6 +108,7 @@ namespace DAL
                             customer = GetCustomer((int)info["CustomerID"]),
                             ShipToAddress = GetAddress((int)info["ShipToAddressID"]),
                             PurchaseOrderNumber = GetValue<string>(info["PurchaseOrderNumber"]),
+                            SalesOrderNumber = info["SalesOrderNumber"] as string,
                             SubTotal = (decimal)info["SubTotal"]
                         };
 
@@ -185,7 +238,7 @@ namespace DAL
                             //ProductCategoryID = GetValue<int>(info["ProductCategoryID"]),
                             ProductModelID = GetValue<int>(info["ProductModelID"]),
                             Weight = GetValue<decimal>(info["Weight"]),
-                            ThumbNailPhoto = GetValue<byte[]>(info["ThumbNailPhoto"]),
+                            //ThumbNailPhoto = GetValue<byte[]>(info["ThumbNailPhoto"]),
                             StandardCost = (decimal)info["StandardCost"],
                             ListPrice = (decimal)info["ListPrice"],
 
@@ -306,6 +359,5 @@ namespace DAL
             reader.Close();
             return info;
         }
-
     }
 }
